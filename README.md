@@ -21,7 +21,9 @@
 - 👯 I’m looking to collaborate on ...
   - Anything AI
 - 💬 Ask me about
-  -The inherent superiority of ARM over X64/X86   
+
+
+  - The inherent superiority of ARM over X64/X86   
 - 📫 How to reach me: 
   - github
 - 😄 Pronouns:
